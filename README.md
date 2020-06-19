@@ -9,3 +9,6 @@ Add the following block to your `.pre-commit-config.yaml`
     hooks:
       - id: cypher-linter
 ```
+
+# docker
+Public repo: https://hub.docker.com/r/cybergrx/cypher-linter
