@@ -17,4 +17,4 @@ RUN apt-get update && \
     apt-get update && \
     apt-get install -y cypher-lint
 
-ENTRYPOINT ["cypher-lint"]
+ENTRYPOINT ["cypher-lint", "--colorize"]
