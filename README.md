@@ -1,5 +1,5 @@
 # cypher-linter
-Pre-commit hook that will run `cypher-lint` on `.cypher|.cql|.cpy` files. 
+Pre-commit hook that will run `cypher-lint` on `.cypher|.cql|.cpy` files.  See https://github.com/cleishm/libcypher-parser for cypher-lint docs and FAQ.
 
 # usage
 Add the following block to your `.pre-commit-config.yaml`
