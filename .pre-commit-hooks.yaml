@@ -1,0 +1,6 @@
+-   id: cypher-linter
+    name: neo4j cypher linter
+    description: Neo4J Cypher linting via docker_image
+    entry: cybergrx/cypher-linter:latest
+    language: docker_image
+    files: \.(cypher|cql|cpy)$
