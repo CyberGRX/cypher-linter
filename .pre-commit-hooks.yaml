@@ -1,5 +1,5 @@
 -   id: cypher-linter
-    name: neo4j cypher linter
+    name: Neo4J Cypher linter
     description: Neo4J Cypher linting via docker_image
     entry: cybergrx/cypher-linter:latest
     language: docker_image
